@@ -5,12 +5,13 @@ This Jupyter Notebook project contains an analysis of Android and iOS mobile app
 The analysis is carried out using **basic python** techniques, without the use libraries. 
 
 ## Sections within the Notebook:
-#### 1) Analysing Mobile App Data
-#### 2) Opening and Exploring Data 
-#### 3) Deleting Wrong Data 
-#### 4) Removing Duplicate Entries 
-#### 5) Removing Non-English Apps
-#### 6) Isolating the Free Apps
-#### 7) Most Common Apps by Genre
-#### 8) Most Popular Apps by Genre
-#### 9) Conclusion
+#### 1) Introduction
+#### 2) Analysing Mobile App Data
+#### 3) Opening and Exploring Data 
+#### 4) Deleting Wrong Data 
+#### 5) Removing Duplicate Entries 
+#### 6) Removing Non-English Apps
+#### 7) Isolating the Free Apps
+#### 8) Most Common Apps by Genre
+#### 9) Most Popular Apps by Genre
+#### 10) Conclusion
