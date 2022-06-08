@@ -1,6 +1,6 @@
 # Profitable App Profiles for the App Store and Google Play Market 
 
-This Jupyter Notebook project contains an analysis of Android and iOS mobile apps using datasets found on Kaggle. It attempts to understand what type of apps are likely to attract more users, in order to assist a hypothetical company in making a decision on which apps to develop within these markets.
+This Jupyter Notebook project contains an analysis of Android and iOS mobile apps using datasets found on Kaggle. It attempts to understand what type of apps are likely to attract more users, to assist a hypothetical company in deciding on which apps to develop within these markets.
 
 The analysis is carried out using **basic python** techniques, without the use libraries. 
 
