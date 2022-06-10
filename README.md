@@ -14,3 +14,12 @@ The analysis is carried out using **basic python** techniques, without the use l
 #### 7) Most Common Apps by Genre
 #### 8) Most Popular Apps by Genre
 #### 9) Conclusion
+
+
+### Skills Demonstrated:
+* The basics of programming in Python (arithmetical operations, variables, common data types, etc.)
+* List and for loops
+* Conditional statements
+* Dictionaries and frequency tables
+* Functions
+* Jupyter Notebook
