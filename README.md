@@ -4,6 +4,16 @@ This Jupyter Notebook project contains an analysis of Android and iOS mobile app
 
 The analysis is carried out using **basic python** techniques, without the use libraries. 
 
+
+### Skills Demonstrated:
+* The basics of programming in Python (arithmetical operations, variables, common data types, etc.)
+* List and for loops
+* Conditional statements
+* Dictionaries and frequency tables
+* Functions
+* Jupyter Notebook
+
+
 ## Sections within the Notebook:
 #### 1) Introduction
 #### 2) Opening and Exploring Data 
@@ -14,12 +24,3 @@ The analysis is carried out using **basic python** techniques, without the use l
 #### 7) Most Common Apps by Genre
 #### 8) Most Popular Apps by Genre
 #### 9) Conclusion
-
-
-### Skills Demonstrated:
-* The basics of programming in Python (arithmetical operations, variables, common data types, etc.)
-* List and for loops
-* Conditional statements
-* Dictionaries and frequency tables
-* Functions
-* Jupyter Notebook
